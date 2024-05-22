@@ -2,7 +2,7 @@
 
 Python Project- Diwali Sales Analysis
 
-**process**
+**process:**
 - Import File or Data
 - Data Cleaning and Processing
 - Exploratory Data Analysis(EDA)
